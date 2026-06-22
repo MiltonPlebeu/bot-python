@@ -1,0 +1,26 @@
+# Ambiente virtual
+meu_env/
+venv/
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Configurações do VSCode
+.vscode/
+
+# Perfis do navegador (se forem gerados automaticamente)
+perfil_bot/
+perfil_bot/Cache/
+perfil_bot/Code Cache/
+perfil_bot/GPUCache/
+perfil_bot/Crashpad/
+perfil_bot/Default/Cache/
+
