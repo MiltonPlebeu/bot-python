@@ -8,8 +8,8 @@ TEXTO_PROCURADO = "Vagas esgotadas aguarde novo lote a ser liberado!"
 INTERVALO_CHECAGEM = 600  # 10 minutos
 
 # Dados do Telegram (Substitua pelos seus dados obtidos no BotFather e userinfobot)
-TELEGRAM_TOKEN = "8996392030:AAEy85L5rmqtIbrIuOgQnZIHzucc10D1tvE"
-TELEGRAM_CHAT_ID = "501662395"
+TELEGRAM_TOKEN = "xxxxxxxx"
+TELEGRAM_CHAT_ID = "xxxxxxx"
 # =================================================
 
 def enviar_telegram(mensagem):
